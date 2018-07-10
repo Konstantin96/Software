@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftWare", "SoftWare\SoftWare.csproj", "{F07E0919-8466-4A24-B895-38C56744E889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soft.lib", "Soft.lib\Soft.lib.csproj", "{ED47996B-23E4-4083-A734-7F75A0926998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07E0919-8466-4A24-B895-38C56744E889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07E0919-8466-4A24-B895-38C56744E889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07E0919-8466-4A24-B895-38C56744E889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07E0919-8466-4A24-B895-38C56744E889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED47996B-23E4-4083-A734-7F75A0926998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED47996B-23E4-4083-A734-7F75A0926998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED47996B-23E4-4083-A734-7F75A0926998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED47996B-23E4-4083-A734-7F75A0926998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
